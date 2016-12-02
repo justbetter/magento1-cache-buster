@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <JustBetter_CacheBuster>
+            <version>1.0.0</version>
+        </JustBetter_CacheBuster>
+    </modules>
+    <global>
+    	<models>
+    		<core>
+    			<rewrite>
+    				<design_package>JustBetter_CacheBuster_Model_Design_Package</design_package>
+    			</rewrite>
+    		</core>
+    	</models>
+    </global>
+</config>
