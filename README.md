@@ -1,0 +1,1 @@
+# Magento 1 Cache Buster
