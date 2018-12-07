@@ -34,7 +34,7 @@ Please create a [issue](https://github.com/justbetter/magento1-cache-buster/issu
 [MIT](LICENSE.txt)
 
 ## About us
-We’re a innovative development agency from The Netherlands building awesome websites, webshops and web applications with Laravel and Magento. Check out our website [justbetter.nl](https://justbetter.nl) and our open source projects at [GitHub](https://github.com/justbetter).
+We’re a innovative development agency from The Netherlands building awesome websites, webshops and web applications with Laravel and Magento. Check out our website [justbetter.nl](https://justbetter.nl) and our [open source projects](https://github.com/justbetter).
 
 ---
 
